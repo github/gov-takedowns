@@ -5,7 +5,7 @@ From time to time, GitHub receives requests from governments to remove content t
 When we receive a notice from an official government agency that identifies illegal content and specifies the source of the illegality, we
 - notify the affected users of the specific content that allegedly violates the law and that this is a legal takedown request
 - allow the affected users to dispute the decision as part of that notification
-- limit the geographic scope of the takedown when possible
+- limit the geographic scope of the takedown when possible and include that as part of the notification
 - post the official request that led to the takedown in this repository. 
 
 #### Why do we publicly post takedown notices?
