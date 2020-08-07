@@ -33,4 +33,4 @@ We do not accept Pull Requests in this repository because the notices we post ar
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/github/site-policy-internal/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. 
 
-Please see this repo's [Contributing Guidelines](https://github.com/github/site-policy-internal/blob/master/CONTRIBUTING.md) for more information.
+Please see this repo's [Contributing Guidelines](https://github.com/github/site-policy-internal/blob/master/CONTRIBUTING.md_ for more information.
