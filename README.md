@@ -1,5 +1,5 @@
 #### What is this?
-From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software.
+From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software. This repository contains official government requests which led to content removal based on local law. 
 
 #### What is a complete government takedown request?
 To count as a complete request, a request or notice must
